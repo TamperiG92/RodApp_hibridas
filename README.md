@@ -57,4 +57,6 @@ rodapp-hibridas/
 ├── capacitor.config.ts      # Configuración para compilación nativa
 ├── ionic.config.json        # Configuración del proyecto Ionic
 └── package.json             # Dependencias del proyecto
-  
+
+## Licencia 
+Este proyecto está bajo la Licencia MIT - libre para uso académico e investigativo en la Fundación Universitaria Compensar
